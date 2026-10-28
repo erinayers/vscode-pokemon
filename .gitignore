@@ -13,4 +13,4 @@ media/main-bundle.js
 scripts/sprites/out/
 scripts/sprites/**/__pycache__/
 .pytest_cache/
-sprites/
+/sprites/
